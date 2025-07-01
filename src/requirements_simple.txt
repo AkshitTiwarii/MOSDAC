@@ -1,0 +1,10 @@
+﻿streamlit==1.32.0
+langchain==0.2.1
+faiss-cpu==1.8.0
+sentence-transformers==2.7.0
+requests==2.32.2
+pypdf==4.2.0
+tqdm==4.66.4
+transformers==4.41.2
+rank_bm25==0.2.2
+sqlite3
