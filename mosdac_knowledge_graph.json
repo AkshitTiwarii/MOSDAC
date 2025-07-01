@@ -1,0 +1,450 @@
+{
+  "entities": {
+    "Oceansat-2": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/satellite-missions",
+          "text": "MOSDAC operates satellites including Oceansat-2 for ocean color monitoring, ScatSat-1 for wind measurements, and INSAT-3D/3DR for atmospheric studies. These satellites provide data over the Indian Ocean region with resolutions up to 1km."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "ScatSat-1": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/satellite-missions",
+          "text": "MOSDAC operates satellites including Oceansat-2 for ocean color monitoring, ScatSat-1 for wind measurements, and INSAT-3D/3DR for atmospheric studies. These satellites provide data over the Indian Ocean region with resolutions up to 1km."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "INSAT-3D": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/satellite-missions",
+          "text": "MOSDAC operates satellites including Oceansat-2 for ocean color monitoring, ScatSat-1 for wind measurements, and INSAT-3D/3DR for atmospheric studies. These satellites provide data over the Indian Ocean region with resolutions up to 1km."
+        },
+        {
+          "source": "https://mosdac.gov.in/en/tropical-cyclone",
+          "text": "Cyclone prediction products are updated daily during storm seasons using INSAT-3D data to monitor storm development in Bay of Bengal and Arabian Sea regions."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "INSAT-3DR": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/satellite-missions",
+          "text": "MOSDAC operates satellites including Oceansat-2 for ocean color monitoring, ScatSat-1 for wind measurements, and INSAT-3D/3DR for atmospheric studies. These satellites provide data over the Indian Ocean region with resolutions up to 1km."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "Indian Ocean": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/satellite-missions",
+          "text": "MOSDAC operates satellites including Oceansat-2 for ocean color monitoring, ScatSat-1 for wind measurements, and INSAT-3D/3DR for atmospheric studies. These satellites provide data over the Indian Ocean region with resolutions up to 1km."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "registration": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/user-registration",
+          "text": "To access MOSDAC data: Register on the portal, use the data discovery tool, and download datasets in NetCDF or HDF5 formats. Academic users can register for free access."
+        }
+      ],
+      "geo": null
+    },
+    "data discovery": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/user-registration",
+          "text": "To access MOSDAC data: Register on the portal, use the data discovery tool, and download datasets in NetCDF or HDF5 formats. Academic users can register for free access."
+        }
+      ],
+      "geo": null
+    },
+    "NetCDF": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/user-registration",
+          "text": "To access MOSDAC data: Register on the portal, use the data discovery tool, and download datasets in NetCDF or HDF5 formats. Academic users can register for free access."
+        }
+      ],
+      "geo": null
+    },
+    "HDF5": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/user-registration",
+          "text": "To access MOSDAC data: Register on the portal, use the data discovery tool, and download datasets in NetCDF or HDF5 formats. Academic users can register for free access."
+        }
+      ],
+      "geo": null
+    },
+    "SST": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-products",
+          "text": "MOSDAC offers products like Sea Surface Temperature (SST), Chlorophyll-a concentration, Wind Vectors, and Ocean Heat Content. Data is available from 2010 to present at daily intervals."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "Chlorophyll-a": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-products",
+          "text": "MOSDAC offers products like Sea Surface Temperature (SST), Chlorophyll-a concentration, Wind Vectors, and Ocean Heat Content. Data is available from 2010 to present at daily intervals."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "Wind Vectors": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-products",
+          "text": "MOSDAC offers products like Sea Surface Temperature (SST), Chlorophyll-a concentration, Wind Vectors, and Ocean Heat Content. Data is available from 2010 to present at daily intervals."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "Ocean Heat Content": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-products",
+          "text": "MOSDAC offers products like Sea Surface Temperature (SST), Chlorophyll-a concentration, Wind Vectors, and Ocean Heat Content. Data is available from 2010 to present at daily intervals."
+        }
+      ],
+      "geo": [
+        20.5937,
+        78.9629
+      ]
+    },
+    "cyclone": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/tropical-cyclone",
+          "text": "Cyclone prediction products are updated daily during storm seasons using INSAT-3D data to monitor storm development in Bay of Bengal and Arabian Sea regions."
+        }
+      ],
+      "geo": [
+        13.0827,
+        80.2707
+      ]
+    },
+    "Bay of Bengal": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/tropical-cyclone",
+          "text": "Cyclone prediction products are updated daily during storm seasons using INSAT-3D data to monitor storm development in Bay of Bengal and Arabian Sea regions."
+        }
+      ],
+      "geo": [
+        13.0827,
+        80.2707
+      ]
+    },
+    "Arabian Sea": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/tropical-cyclone",
+          "text": "Cyclone prediction products are updated daily during storm seasons using INSAT-3D data to monitor storm development in Bay of Bengal and Arabian Sea regions."
+        }
+      ],
+      "geo": [
+        13.0827,
+        80.2707
+      ]
+    },
+    "data services": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-services",
+          "text": "MOSDAC provides data services including satellite imagery visualization, data subsetting, and time-series analysis. APIs are available for programmatic access to oceanographic datasets."
+        }
+      ],
+      "geo": null
+    },
+    "satellite imagery": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-services",
+          "text": "MOSDAC provides data services including satellite imagery visualization, data subsetting, and time-series analysis. APIs are available for programmatic access to oceanographic datasets."
+        }
+      ],
+      "geo": null
+    },
+    "data subsetting": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-services",
+          "text": "MOSDAC provides data services including satellite imagery visualization, data subsetting, and time-series analysis. APIs are available for programmatic access to oceanographic datasets."
+        }
+      ],
+      "geo": null
+    },
+    "time-series analysis": {
+      "type": "concept",
+      "mentions": [
+        {
+          "source": "https://mosdac.gov.in/en/data-services",
+          "text": "MOSDAC provides data services including satellite imagery visualization, data subsetting, and time-series analysis. APIs are available for programmatic access to oceanographic datasets."
+        }
+      ],
+      "geo": null
+    }
+  },
+  "relationships": [
+    {
+      "source": "Oceansat-2",
+      "target": "ScatSat-1",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "Oceansat-2",
+      "target": "INSAT-3D",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "Oceansat-2",
+      "target": "INSAT-3DR",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "Oceansat-2",
+      "target": "Indian Ocean",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "ScatSat-1",
+      "target": "INSAT-3D",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "ScatSat-1",
+      "target": "INSAT-3DR",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "ScatSat-1",
+      "target": "Indian Ocean",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "INSAT-3D",
+      "target": "INSAT-3DR",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "INSAT-3D",
+      "target": "Indian Ocean",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "INSAT-3DR",
+      "target": "Indian Ocean",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/satellite-missions"
+    },
+    {
+      "source": "registration",
+      "target": "data discovery",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "registration",
+      "target": "NetCDF",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "registration",
+      "target": "HDF5",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "data discovery",
+      "target": "NetCDF",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "data discovery",
+      "target": "HDF5",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "NetCDF",
+      "target": "HDF5",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/user-registration"
+    },
+    {
+      "source": "SST",
+      "target": "Chlorophyll-a",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "SST",
+      "target": "Wind Vectors",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "SST",
+      "target": "Ocean Heat Content",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "Chlorophyll-a",
+      "target": "Wind Vectors",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "Chlorophyll-a",
+      "target": "Ocean Heat Content",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "Wind Vectors",
+      "target": "Ocean Heat Content",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-products"
+    },
+    {
+      "source": "cyclone",
+      "target": "INSAT-3D",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "cyclone",
+      "target": "Bay of Bengal",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "cyclone",
+      "target": "Arabian Sea",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "INSAT-3D",
+      "target": "Bay of Bengal",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "INSAT-3D",
+      "target": "Arabian Sea",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "Bay of Bengal",
+      "target": "Arabian Sea",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/tropical-cyclone"
+    },
+    {
+      "source": "data services",
+      "target": "satellite imagery",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    },
+    {
+      "source": "data services",
+      "target": "data subsetting",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    },
+    {
+      "source": "data services",
+      "target": "time-series analysis",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    },
+    {
+      "source": "satellite imagery",
+      "target": "data subsetting",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    },
+    {
+      "source": "satellite imagery",
+      "target": "time-series analysis",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    },
+    {
+      "source": "data subsetting",
+      "target": "time-series analysis",
+      "type": "related",
+      "source_url": "https://mosdac.gov.in/en/data-services"
+    }
+  ]
+}
