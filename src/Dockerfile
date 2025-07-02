@@ -10,4 +10,4 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
-CMD ["streamlit", "run", "your_app.py"]
+CMD ["streamlit", "run", "single_app.py"]  # Changed "your_app.py" to "app.py" (or your actual filename)
