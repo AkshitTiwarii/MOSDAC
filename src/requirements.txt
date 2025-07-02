@@ -8,4 +8,4 @@ tqdm==4.66.4
 # Removed geopandas and pyproj
 # Simplified leafmap installation
 leafmap==0.25.3
-faiss>=1.7.0,<2  # in requirements.txt
+faiss-cpu>=1.7.0
