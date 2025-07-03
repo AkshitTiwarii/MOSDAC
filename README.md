@@ -3,6 +3,11 @@ MOSDAC Help-Bot - Advanced Geospatial Intelligence System
 
 The MOSDAC Help-Bot is an AI-powered assistant designed to provide comprehensive support for accessing and understanding satellite data from the Meteorological & Oceanographic Satellite Data Archival Centre (MOSDAC). This advanced geospatial intelligence system helps researchers, scientists, and students navigate MOSDAC's vast repository of satellite data products and services.
 
+https://github.com/user-attachments/assets/1d8b0b95-8706-4adf-a941-16cb23a38b9a
+https://github.com/user-attachments/assets/ab3e7857-8e58-4ca9-90d1-5751408b6d61
+https://github.com/user-attachments/assets/c19df99d-7de3-4e91-a657-737b757a5721
+https://github.com/user-attachments/assets/9fd1b1a1-362c-41c8-8350-d88544c033e3
+
 Key Features
 🛰️ Satellite Mission Information: 
 > Oceansat-2, ScatSat-1, INSAT-3D/3DR details
@@ -15,9 +20,11 @@ Key Features
 >Ocean current patterns
 
 🌀 Cyclone Tracking:
+
 >Real-time cyclone predictions
 >Impact assessments
 >Historical data analysis
+
 
 📊 Geospatial Intelligence:
 >Location-based data coverage
@@ -81,4 +88,4 @@ MOSDAC Help-Bot
     ├── Real-time Chat
     ├── Satellite Status Panel
     └── Performance Analytics
-(https://github.com/user-attachments/assets/1d8b0b95-8706-4adf-a941-16cb23a38b9a)        (https://github.com/user-attachments/assets/ab3e7857-8e58-4ca9-90d1-5751408b6d61)
+
