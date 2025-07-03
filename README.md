@@ -115,11 +115,3 @@ MOSDAC Help-Bot
 ```
 
 ---
-
-**How to use:**
-- Click the “Copy” button in the top-right of this code block (visible in this chat or modern editors).
-- Paste directly into your `README.md`.
-
----
-
-If you want an actual HTML copy button for a website or docs, ask and I’ll provide a version with a live “Copy” button!
