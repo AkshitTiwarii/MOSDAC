@@ -1,3 +1,4 @@
+
 # 🚀 MOSDAC Help-Bot: Next-Gen Geospatial Intelligence
 
 **Unlock the Future of Satellite Data with AI-Powered Insight**
@@ -104,6 +105,9 @@ MOSDAC Help-Bot
 ![Ocean Data Dashboard](https://github.com/user-attachments/assets/ab3e7857-8e58-4ca9-90d1-5751408b6d61)
 ![Knowledge Graph](https://github.com/user-attachments/assets/c19df99d-7de3-4e91-a657-737b757a5721)
 ![Performance Analytics](https://github.com/user-attachments/assets/9fd1b1a1-362c-41c8-8350-d88544c033e3)
+
+### Prototype
+![Visual Representation](https://github.com/user-attachments/assets/9083d974-277e-44b2-868f-16aaaf0e2178)
 
 ---
 
