@@ -12,7 +12,7 @@
 
 **Unlock the Future of Satellite Data with AI-Powered Insight**
 
-The **MOSDAC Help-Bot** is an advanced AI assistant built to transform the way you access, analyze, and understand meteorological and oceanographic satellite data from the Meteorological & Oceanographic Satellite Data Archival Centre (MOSDAC). Experience seamless, intelligent geospatial discovery and real-time insights with an interface designed for the explorers of tomorrow.
+We present MOSDAC Geospatial Help-Bot, a smart AI assistant designed to simplify access to meteorological and satellite data on the MOSDAC portal. The bot supports natural language queries, processes both static and dynamic content, and answers user questions with source-linked context and geospatial coverage maps. It combines a Retrieval-Augmented Generation (RAG) pipeline (using FAISS + BM25), a knowledge graph, and LLMs like GPT or DeepSeek to deliver accurate, explainable responses. Features include entity recognition, region-aware search, product lookup, and a clean Streamlit interface with performance metrics. The bot is fully modular, resource-efficient, and adaptable for other ISRO web platforms.
 
 ---
 
@@ -122,7 +122,7 @@ MOSDAC Help-Bot
 
 ---
 
-**Join us in shaping the future of geospatial intelligence.**
+**The **MOSDAC Help-Bot** is an advanced AI assistant built to transform the way you access, analyze, and understand meteorological and oceanographic satellite data from the Meteorological & Oceanographic Satellite Data Archival Centre (MOSDAC). Experience seamless, intelligent geospatial discovery and real-time insights with an interface designed for the explorers of tomorrow.**
 ```
 
 ---
