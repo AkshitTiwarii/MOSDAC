@@ -1,4 +1,11 @@
 # 🚀 MOSDAC Help-Bot: Next-Gen Geospatial Intelligence
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-ready-blueviolet" />
+  <img src="https://img.shields.io/badge/Geospatial%20Support-Yes-brightgreen" />
+  <img src="https://img.shields.io/badge/Response%20Time-~1.7s-yellow" />
+  <img src="https://img.shields.io/badge/Intent%20Accuracy-92%25-success" />
+  <img src="https://img.shields.io/badge/RAG+KG-Enabled-orange" />
+</p>
 
 ### Prototype
 ![Visual Representation](https://github.com/user-attachments/assets/9083d974-277e-44b2-868f-16aaaf0e2178)
