@@ -1,5 +1,8 @@
 # 🚀 MOSDAC Help-Bot: Next-Gen Geospatial Intelligence
 
+### Prototype
+![Visual Representation](https://github.com/user-attachments/assets/9083d974-277e-44b2-868f-16aaaf0e2178)
+
 **Unlock the Future of Satellite Data with AI-Powered Insight**
 
 The **MOSDAC Help-Bot** is an advanced AI assistant built to transform the way you access, analyze, and understand meteorological and oceanographic satellite data from the Meteorological & Oceanographic Satellite Data Archival Centre (MOSDAC). Experience seamless, intelligent geospatial discovery and real-time insights with an interface designed for the explorers of tomorrow.
@@ -61,11 +64,13 @@ streamlit run single_app.py
   - Monitor live satellite status and mission timelines  
   - Interact with dynamically updating knowledge graphs  
   - Track AI performance with live metrics
+  - Tested with 50 queries p, avg latency 1.7s, intent accuracy 92%
 
 - **Continuous Evolution:**  
   - Auto-refresh knowledge base from the latest data streams  
   - Modular architecture for rapid upgrades  
   - Seamless integration with future MOSDAC missions
+  - Fallback to local LLM(Deepseek/Ollama/GPT-4) in case API not allowed
 
 ---
 
@@ -105,9 +110,6 @@ MOSDAC Help-Bot
 ![Knowledge Graph](https://github.com/user-attachments/assets/c19df99d-7de3-4e91-a657-737b757a5721)
 ![Performance Analytics](https://github.com/user-attachments/assets/9fd1b1a1-362c-41c8-8350-d88544c033e3)
 ![image](https://github.com/user-attachments/assets/ed775299-7346-4cf8-9237-f48e4f9049c7)
-
-### Prototype
-![Visual Representation](https://github.com/user-attachments/assets/9083d974-277e-44b2-868f-16aaaf0e2178)
 
 ---
 
