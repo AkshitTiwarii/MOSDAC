@@ -47,6 +47,8 @@ cd MOSDAC
 # Install next-gen dependencies
 pip install -r requirements.txt
 
+# To run locally: python single_app.py
+
 # Launch the AI dashboard
 streamlit run single_app.py
 ```
