@@ -8,7 +8,11 @@
 </p>
 
 ### Prototype
-[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://youtu.be/xDB5joiAe3Q])
+## 🎥 Demo Walkthrough
+
+[![Watch the Demo](https://img.youtube.com/vi/xDB5joiAe3Q/hqdefault.jpg)](https://youtu.be/xDB5joiAe3Q)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/xDB5joiAe3Q)
+
 
 **Unlock the Future of Satellite Data with AI-Powered Insight**
 
