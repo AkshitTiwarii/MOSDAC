@@ -8,7 +8,7 @@
 </p>
 
 ### Prototype
-![Visual Representation](https://github.com/user-attachments/assets/9083d974-277e-44b2-868f-16aaaf0e2178)
+[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://youtu.be/xDB5joiAe3Q])
 
 **Unlock the Future of Satellite Data with AI-Powered Insight**
 
